@@ -1,1 +1,1 @@
-testfile-$(date +%H%M).txt
+Hello world from Jenkins Assignment3
